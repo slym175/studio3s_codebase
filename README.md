@@ -8,6 +8,7 @@ This is base code created by Studio3S (Read kun) using Laravel 8 and Angular 11.
 cd server
 composer install
 cp .env.example .env
+php artisan key:generate
 ```
 
 # Studio3s CodeBase Angular Client
